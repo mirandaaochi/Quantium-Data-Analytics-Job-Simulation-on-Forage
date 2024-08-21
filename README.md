@@ -62,7 +62,64 @@ What You'll Do:
 
 R: data validation, data visualization, statistical testing
 
-## Results
+## Results and Business Recommendations
 
-**Task One: Data Preparation and Customer Analytics**
+**Chips Category Review**
 
+![Transactions over time](https://github.com/user-attachments/assets/cdbe9236-33ee-426a-967d-ee460570542b)
+
+Chip transactions have remained relatively consistent over the last 52 weeks. There is a notable increase and gap that occurs in December.
+
+![Transactions in December](https://github.com/user-attachments/assets/a1395dd8-a677-4332-aaf5-a5e8a80af709)
+
+Zooming in, we see that transactions in the week including Christmas were negatively affected by store closures for the holiday.
+
+![Proportion of sales](https://github.com/user-attachments/assets/abdf1675-946c-464e-a410-d7185868335c)
+
+Chip sales were mainly to Budget - older families, Mainstream - young singles/couples, and Mainstream - retirees.
+
+![Proportion of Customers](https://github.com/user-attachments/assets/4d384064-494c-4c96-aba0-b57cff009d13)
+
+There are more mainstream young singles/couples and retirees in total.
+
+![Units per Customer](https://github.com/user-attachments/assets/7bbb70e3-b614-4256-be8e-3f79845d6ea7)
+
+Affluence appears consistent across each individual life stage profile. Older families and young families generally buy more chips per customer.
+
+![Price per Unit](https://github.com/user-attachments/assets/341bb1b2-fe6e-4f7f-9016-73e26fbee55c)
+
+Mainstream, mid-age, and young singles/couples are more likely to pay more per packet. This is indicative of impulse buying behavior.
+
+**Trial Store Performance**
+
+Trial Stores: 77, 86, 88
+
+The trial period goes from the start of March 2019 to June 2019.
+
+Control stores were selected based on similarities in monthly overall sales revenue, monthly number of customers, and monthly number of transactions per customer.
+
+*Trial Store 77 vs. Control Store 233*
+
+![Control vs  Trial (77) Customers](https://github.com/user-attachments/assets/52ec40ca-afd9-4495-b277-8efbd956d31f)
+
+![Control vs  Trial Sales (77)](https://github.com/user-attachments/assets/f3011052-39e2-4105-ba78-60d5b034a401)
+
+From February to May, the trial store (77) outperformed the control store highlighting the success of the new store layout.
+
+*Trial Store 86 vs. Control Store 155*
+
+![Control (155) vs  Trial (86) Total Customers by Month](https://github.com/user-attachments/assets/f353d01f-3ca1-4cd0-a9a5-9326ccab1c75)
+
+![Control (155) vs  Trial (86) Total Sales by Month](https://github.com/user-attachments/assets/7466b40b-7b48-4e81-bcfc-518b14d6390e)
+
+From February to May, the trial store (86) outperformed the control store with customers but not sales.
+
+*Trial Store 88 vs. Control Store 237*
+
+![Control (237) vs  Trial (88) Total Customers](https://github.com/user-attachments/assets/a1c9c093-5571-4022-b2ce-d932220bb420)
+
+![Control (237) vs  Trial (88) Total Sales](https://github.com/user-attachments/assets/ddf935bb-9c59-49ee-bded-34819536f67e)
+
+From February to May, the trial store (88) outperformed the control store highlighting the success of the new store layout.
+
+The results for trial stores 77 and 88 during the trial period show a significant difference in at least two of the three trial months but this is not the case for trial store 86. We can check with the client if the implementation of the trial was different in trial store 86 but overall, the trial shows a significant increase in sales. 
