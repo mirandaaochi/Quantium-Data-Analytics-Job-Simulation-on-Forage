@@ -1,4 +1,4 @@
-# Forage: Quantium Data Analytics Virtual Internship
+# Quantium Data Analytics Job Simulation on Forage
 
 Founded in 2002, Quantium has a long history of innovation in data science across all sectors of the economy. As a rapidly growing global leader in data science and AI, we are dedicated to growing our team of ambitious, diverse, and fun employees! Our team of employees work together to harness the power of data to drive revolutionary change that benefits us all and deliver the best results for our clients.
 
@@ -17,6 +17,16 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 **Task Three: Analytics and Commercial Application**
 
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
+
+## Business Problem
+
+**Task One: Data Preparation and Customer Analytics**
+
+The Category Manager for Chips, wants to better understand the types of customers who purchase Chips and their purchasing behavior within the region. The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
+
+**Task Two: Experimentation and Uplift Testing**
+
+The Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
 
 ## Methodology
 
